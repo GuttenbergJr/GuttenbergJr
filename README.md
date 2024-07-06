@@ -4,9 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuttenbergJr&layout=compact&theme=dark)
 
-### Tecnologias que uso no meu dia
+<h2> Tecnologias que uso no meu dia </h2> 
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block">
     <img align="Center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="Center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="Center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -16,6 +16,6 @@
 
 Apaixonado por tecnologia, explorando novos horizontes no mundo do código! 💻✨ 
 
-### Redes sociais
+<h2 >Redes sociais </h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guttenberg-junior-820352268/)
