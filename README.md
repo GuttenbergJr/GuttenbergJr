@@ -2,6 +2,8 @@
 
 ![Guttenberg's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuttenbergJr&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuttenbergJr&layout=compact&theme=dark)
+
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"></br>
